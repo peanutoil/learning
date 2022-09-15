@@ -1,2 +1,2 @@
 # learning
-learnig to use github
+learnig to use github!
